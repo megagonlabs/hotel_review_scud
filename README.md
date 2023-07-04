@@ -45,7 +45,7 @@ Formats of all files in [data](data) are the same as used in [asdc](https://gith
 
 1. 林部祐太．
     発話とレビューに対する解釈文生成とトピック分類．
-    言語処理学会第29回年次大会論文集，pp.2013-2017. 2022. (NLP 2022)
+    言語処理学会第29回年次大会論文集，pp.2013-2017. 2023. (NLP 2023)
     [\[PDF\]](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P8-12.pdf)
 
 ## Notes
